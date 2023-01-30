@@ -1,0 +1,25 @@
+body{
+    width: 1440px;
+    height: 3131px;
+}
+
+.UMS {
+    padding: 4px;
+}
+
+.user-menu{
+    margin: 0;
+    padding: 4px;
+    display: inline;
+    margin: 10px;
+}
+
+.user-menu li{
+    display: inline;
+    margin: 5px;
+}
+
+.none{
+    list-style-type: none;
+    padding: 73px;
+}
